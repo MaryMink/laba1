@@ -1,0 +1,39 @@
+*{
+	background-color:#B0E0E6;
+	margin: 0 px;
+	padding: 0 px;
+	
+}
+h1{
+	text-align: center;
+	font-family: Times;
+	font-size: 32pt;
+	font-style: italic;
+}
+h4{
+	text-align: right;
+	font-style: italic;
+}
+h3{
+	font-size: 16pt;
+	text-align: center;
+}
+img {
+width:800px; /* you can use % */
+height:365px;
+}
+
+.item{
+	color: #000;
+	font-style: normal;
+	font-family: Times;
+	text-align: center;
+	font-size: 12pt;
+}
+
+
+.image-center {
+  display:block;
+  margin: auto;
+}
+
